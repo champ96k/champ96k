@@ -8,7 +8,7 @@
 
 - 📝 Write stuff on [https://medium.com/@champ96k](https://medium.com/@champ96k)
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: <i class="fa fa-linkedin-square" style="font-size:42px;color:blue"></i>
 
 - 😄 Pronouns: ...
 

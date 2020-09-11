@@ -10,7 +10,7 @@
 
 - 📝 Write stuff on [https://medium.com/@champ96k](https://medium.com/@champ96k)
 
-- 📫 How to reach me:  <a &nbsp &nbsp href="https://twitter.com/champ_96k"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/tushar-nikam-a29a97131/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+- 📫 How to reach me:  &nbsp; <a &nbsp; &nbsp; href="https://twitter.com/champ_96k"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/tushar-nikam-a29a97131/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 
 

@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://champ96k.github.io](https://champ96k.github.io)
 
-- 📝 Write stuff on <a href="https://medium.com/@champ96k"><img height="18" src="https://www.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png?raw=true"></a>
+- 📝 Write stuff on <a href="https://medium.com/@champ96k"><img height="18" src="https://miro.medium.com/max/470/1*3BP9i12zmh99F4fyjUdi3w.png"></a>
 
 - 📫 How to reach me:    <a href="https://twitter.com/champ_96k"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/tushar-nikam-a29a97131/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 

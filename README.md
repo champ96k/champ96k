@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champ96k" alt="champ96k" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://champ96k.github.io](https://champ96k.github.io)
+- 👨‍💻 All of my projects are available at [http://tusharnikam.ml](http://tusharnikam.ml/)
 
 - 📝 Write stuff on <a href="https://medium.com/@champ96k"><img height="26" src="https://miro.medium.com/max/470/1*3BP9i12zmh99F4fyjUdi3w.png"></a>
 

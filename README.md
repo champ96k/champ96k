@@ -18,10 +18,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=champ96k&layout=compact&hide=html" alt="champ96k" /></p>
 
-<br>
-</br>
-<br>
-</br>
+---------------------------------------------------------------------------
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=champ96k&show_icons=true" alt="champ96k" /></p>
 
  

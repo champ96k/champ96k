@@ -28,13 +28,6 @@
  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=champ96k&show_icons=true" alt="champ96k" />
 </p>
 
-## Documentation
-
-None
-
-## Support the development
-
-**Do you like this project? Support it by donating**
 
 <a href="https://www.buymeacoffee.com/champ96k">
 
@@ -42,4 +35,3 @@ None
 
 </a>
 
-## License

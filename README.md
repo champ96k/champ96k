@@ -28,6 +28,18 @@
  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=champ96k&show_icons=true" alt="champ96k" />
 </p>
 
-![Hello](https://www.buymeacoffee.com/library/content/images/size/w500/2020/09/icon_black-1.png)
+## Documentation
 
-![dd](https://cdn.dribbble.com/users/3349322/screenshots/14039201/media/1d43324ff4b1a3850533fdbb823b8b59.png)
+None
+
+## Support the development
+
+**Do you like this project? Support it by donating**
+
+<a href="https://www.buymeacoffee.com/champ96k">
+
+![alt Buy me a coffee](https://raw.githubusercontent.com/ravjanisz/imagecrypt/master/docs/assets/bmc.png)
+
+</a>
+
+## License

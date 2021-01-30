@@ -12,11 +12,6 @@
 
 - 📫 How to reach me:    <a href="https://twitter.com/champ_96k"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/tushar-nikam-a29a97131/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
- 
- <br>
- 
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=champ96k&show_icons=true" alt="champ96k" />
-</p>
 
 
 <a href="https://www.buymeacoffee.com/champ96k">

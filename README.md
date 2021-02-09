@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 - I build awesome softwares
-- 🌱 I’m currently learning somthing cool.
+- 🌱 I’m currently learning something cool.
 - 📫 How to reach me: [tusharnikam.ml](https://champ96k.github.io)
 - 😄 Pronouns: he/him
 

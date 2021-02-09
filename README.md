@@ -7,7 +7,7 @@
 
 - I build awesome softwares
 - 🌱 I’m currently learning somthing cool.
-- 📫 How to reach me: champ96k@gmail.com
+- 📫 How to reach me: tusharnikam.ml
 - 😄 Pronouns: he/him
 
 <p>Hi, I'm Tushar Nikam, I love building amazing software which make an impact, share open source projects @ <a href="https://github.com/champ96k">Github</a>, write blog at <a href="https://champ96k.medium.com/">medium.com</a>.</p>

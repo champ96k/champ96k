@@ -1,8 +1,6 @@
 
 <link rel="stylesheet" href="../css/social-circles.min.css">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=champ96k" alt="champ96k" /> </p>
-
 ### Hi there 👋
 
 - I build awesome softwares

@@ -18,6 +18,11 @@
 [![Tushar's github stats](https://github-readme-stats-wasabeef.vercel.app/api?username=champ96k&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=champ96k&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Csaba Toth StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11157840)](https://stackoverflow.com/users/11157840/tushar-nikam)
+
+
+
 ### ♡ Buy me a coffee
 
 - [Become a sponsor](https://www.buymeacoffee.com/champ96k)

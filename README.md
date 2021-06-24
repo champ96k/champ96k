@@ -3,8 +3,10 @@
 
 ### Hi there 👋
 
-- I build awesome softwares
-- 🌱 I’m currently learning something cool.
+- 🔭 I’m currently working on Flutter projects
+- 🌱 I’m currently learning Backend technology
+- 🤔 I’m looking for help with Open Source and CP
+- 💬 Ask me about anything
 - 📫 How to reach me: champ96k@gmail.com
 - 😄 Pronouns: he/him
 

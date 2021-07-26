@@ -18,12 +18,3 @@
 GitHub Streak             |  Tushar's GitHub stats
 :-------------------------:|:-------------------------:
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=champ96k&theme=dracula&hide_border=true)](https://git.io/streak-stats) | ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=champ96k&count_private=true&theme=radical)
-
-
-
-
-### ♡ Buy me a coffee
-
-- [Become a sponsor](https://www.buymeacoffee.com/champ96k)
-
-<img src="https://komarev.com/ghpvc/?username=champ96k&color=blue&style=flat-square&label=visitors" align="right" />

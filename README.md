@@ -3,7 +3,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Flutter projects
 - 🤔 I’m looking for help with Open Source and CP
 - 📫 How to reach me: champ96k@gmail.com
 - 😄 Pronouns: he/him

@@ -13,11 +13,6 @@
     </a>
 </p>
 
-<h1>
-	<img height="30px" src="./res/img/hi.gif" alt="👋🏽" />
-	<img height="30px" src="./res/img/globe.gif" alt="🌎" />
-	<img height="30px" src="./res/img/exclamation.gif" alt="❗" />
-</h1>
 
 
 <p valign="middle">

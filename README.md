@@ -1,19 +1,7 @@
 
 <link rel="stylesheet" href="../css/social-circles.min.css">
 
-
-<p align="center">
-    <span>&nbsp;</span>
-    <a href="https://github.com/champ96k/tariq86">
-        <img src="https://pageview.vercel.app/?github_user=champ96k" alt="GitHub Profile Views" />
-    </a>
-    <span>&nbsp;</span>
-    <a href="https://github.com/champ96k?tab=followers">
-        <img src="https://img.shields.io/github/followers/champ96k.svg?label=follow&style=social" alt="GitHub Follower Count" />
-    </a>
-</p>
-
-
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=champ96k&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p>
 
 <p valign="middle">
 
